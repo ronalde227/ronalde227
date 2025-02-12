@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-I'm Ronald Melendez.
+I'm Ronald Melendez. I'm a data scientist and project manager specializing in machine learning and data analytics with Python, SQL, React, and FastAPI. My current interests include geospatial analysis, computer vision, and automation for construction analytics.
+
+I have over four years of experience in the construction industry, where I have worked as a construction analyst, operations manager, and roofing expert. My experience includes business analytics, sales automation, and project management.
+
+I have a bachelor’s degree in Mathematics-Computer Science and have built applications for the construction, sales, and finance industries. You can see my work on my github or website.
+
+My background in construction and analytics allows me to bridge the gap between business strategy and data-driven decision-making. I recently transitioned into more data science and machine learning-focused roles, where I can apply my skills to predictive modeling, automation, and AI-driven solutions.
 
 <!--
 **ronalde227/ronalde227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
